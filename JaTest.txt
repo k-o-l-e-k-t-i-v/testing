@@ -1,3 +1,5 @@
+delam nejaky zmeny na dev branchi
+
 aipsjfoa, super, k
 test konfliktu verzi
 =======
