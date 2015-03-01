@@ -1,2 +1,5 @@
 aipsjfoa, super, k
 test konfliktu verzi
+=======
+
+ne tohle neni super
